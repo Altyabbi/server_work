@@ -1,0 +1,17 @@
+# 数据集与大文件
+*.tar.gz
+*.pth
+*.pkl
+*.ckpt
+*.bin
+cifar-100-python/
+cifar10_local/
+data/
+weights_*/
+weights/
+3_RL/dueling_DQN/data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
